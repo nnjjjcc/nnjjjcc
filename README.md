@@ -5,7 +5,7 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;大家好，我是新宿。</p>
-<p>&emsp;&emsp;目前就读于西北农林科技大学，22级软件课程专业。</p>
+<p>&emsp;&emsp;目前就读于西北农林科技大学，22级软件工程专业。</p>
 <p>&emsp;&emsp;热爱前端，26届前端er!</p>
 <p><strong>&emsp;&emsp;完成与用户交互最后一公里的优秀前端工程师.</strong></p>
 
@@ -50,8 +50,9 @@
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnjjjcc&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnjjjcc)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnjjjcc&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+
+  <br>
 <!--
 **nnjjjcc/nnjjjcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
