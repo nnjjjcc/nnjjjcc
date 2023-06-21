@@ -9,6 +9,15 @@
 <p>&emsp;&emsp;热爱前端，26届前端er!</p>
 <p><strong>&emsp;&emsp;完成与用户交互最后一公里的优秀前端工程师.</strong></p>
 
+### 前端技术
+<code><img height="20" src="./img/Html.png" title="Html" /></code>
+<code><img height="20" src="./img/Css.png" title="Css" /></code>
+<code><img height="20" src="./img/JavaScript.png" title="JS" /></code>
+<code><img height="20" src="./img/Less.png" title="Less" /></code>
+<code><img height="20" src="./img/React.png" title="React" /></code>
+<code><img height="20" src="./img/Typescript.png" title="TS" /></code>
+<code><img height="20" src="./img/Vue.png" title="Vue" /></code>
+<code><img height="20" src="./img/Vite.png" title="Vite" /></code>
 
 
 </td></tr>
@@ -23,12 +32,12 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
   
 - [绿盟科技](https://120.79.217.107/) &emsp; 📌 Todo
   
   - 工作岗位：Web前端工程师
-  - 部门：TVM
+  - 部门：TVM安全合规部门
   - 技术栈：Angular  Vue
 
 
@@ -43,8 +52,7 @@
 
 
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+![](https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg)
 
 
 
