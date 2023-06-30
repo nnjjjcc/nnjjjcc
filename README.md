@@ -45,33 +45,19 @@
 </td>
 </tr>
 
-<tr><td>
+<tr>
+  
+  <td>
 
-
-
-
-
-
-![](https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg)
-
-
-
+<br>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnjjjcc&show_icons=true&theme=radical)
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnjjjcc&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
-  <br>
-<!--
-**nnjjjcc/nnjjjcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</td>
+</tr>
