@@ -1,23 +1,7 @@
 
 ### hello. I’m 新宿  👋
-### 🤺 About Me
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是新宿。</p>
-<p>&emsp;&emsp;目前就读于西北农林科技大学，22级软件工程专业。</p>
-<p>&emsp;&emsp;热爱前端，26届前端er!</p>
-<p><strong>&emsp;&emsp;完成与用户交互最后一公里的优秀前端工程师.</strong></p>
 
-### 前端技术
-<code><img height="20" src="./img/Html.png" title="Html" /></code>
-<code><img height="20" src="./img/Css.png" title="Css" /></code>
-<code><img height="20" src="./img/JavaScript.png" title="JS" /></code>
-<code><img height="20" src="./img/Less.png" title="Less" /></code>
-<code><img height="20" src="./img/React.png" title="React" /></code>
-<code><img height="20" src="./img/Typescript.png" title="TS" /></code>
-<code><img height="20" src="./img/Vue.png" title="Vue" /></code>
-<code><img height="20" src="./img/Vite.png" title="Vite" /></code>
 
 
 </td></tr>
@@ -63,8 +47,21 @@
 </td>
 </tr>
 
-#### 
+#### 🤺 About Me
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=nnjjjcc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+
+<p>&emsp;&emsp;大家好，我是新宿。</p>
+<p>&emsp;&emsp;目前就读于西北农林科技大学，22级软件工程专业。</p>
+<p>&emsp;&emsp;热爱前端，26届前端er!</p>
+<p><strong>&emsp;&emsp;完成与用户交互最后一公里的优秀前端工程师.</strong></p>
  - <a href="https://juejin.cn/user/2670049637961533">掘金：新宿站 </a>
+ <code><img height="20" src="./img/Html.png" title="Html" /></code>
+<code><img height="20" src="./img/Css.png" title="Css" /></code>
+<code><img height="20" src="./img/JavaScript.png" title="JS" /></code>
+<code><img height="20" src="./img/Less.png" title="Less" /></code>
+<code><img height="20" src="./img/React.png" title="React" /></code>
+<code><img height="20" src="./img/Typescript.png" title="TS" /></code>
+<code><img height="20" src="./img/Vue.png" title="Vue" /></code>
+<code><img height="20" src="./img/Vite.png" title="Vite" /></code>
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnjjjcc&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
