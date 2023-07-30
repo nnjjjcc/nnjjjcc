@@ -67,7 +67,7 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg)
+
 
 <br>
 
